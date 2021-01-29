@@ -1,12 +1,10 @@
-# hello_world
+
 package basic;
 
-/**
- * Created by hezhuzhang on 12/26/16.
- */
 public class Literals {
     public static void main(String[] args) {
         int a = 1;
+        int c = 5
         double b = 1.9;
 
         int c = 0x0011;//hex hexadecimal
@@ -25,7 +23,8 @@ public class Literals {
         float w = 1.0f;
         System.out.println(w);
 
-    //notes:byte < short< int< long< float< double
+        //notes:byte < short< int< long< float< double
+        
         double value = 1;
         System.out.println(value);
         int VALUE = (int)1.3;
